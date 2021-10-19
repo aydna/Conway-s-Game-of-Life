@@ -1,5 +1,2 @@
-Andy (Yu Zhe) Yang\
-20784033\
-yz8yang\
-macOS 11.6 (MacBook Pro, 2018)\
-Additional Feature: Manual Mode
+The classic simulation display Conway's Game of Life with added stepping capabilities built with JavaFX
+Run with gradle 7.1
